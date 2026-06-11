@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    # - "/qmkl"
+    - "--include-directory=C:/GAMS/52/apifiles/C/api"

@@ -1,0 +1,14 @@
+solverConfig:
+  - AAA:
+      minVersion: 33
+      fileType: 1001
+      dictType: 5
+      licCodes: 000102030405
+      scriptName: gmsgennt.cmd
+      executableName: gmsgennx.exe
+      library:
+        libName: gmocppdll.dll
+        auditCode: aaa
+        solverInterfaceType: 1
+      modelTypes:
+        - CNS

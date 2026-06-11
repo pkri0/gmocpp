@@ -1,0 +1,2 @@
+set GAMSDIR=C:\GAMS\52
+
