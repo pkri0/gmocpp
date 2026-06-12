@@ -1,3 +1,4 @@
 build
 gmomcc.c
 gevmcc.c
+*.pcm

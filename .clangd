@@ -1,4 +1,7 @@
 CompileFlags:
+  CompilationDatabase: build
   Add:
-    # - "/qmkl"
-    - "--include-directory=C:/GAMS/52/apifiles/C/api"
+    - /IC:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.51.36231\include
+    - -fprebuilt-module-path=.
+    - -fmodule-file=std=std.pcm
+    - -fmodule-file=std.compat=std.compat.pcm
