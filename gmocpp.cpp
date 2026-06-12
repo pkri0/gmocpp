@@ -1,5 +1,6 @@
+import std.compat;
+
 #include <cassert>
-#include <iostream>
 
 // GAMS
 #include "gmomcc.h"

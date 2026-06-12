@@ -7,7 +7,7 @@ solverConfig:
       scriptName: gmsgennt.cmd
       executableName: gmsgennx.exe
       library:
-        libName: gmocppdll.dll
+        libName: gmocpplib.dll
         auditCode: aaa
         solverInterfaceType: 1
       modelTypes:
