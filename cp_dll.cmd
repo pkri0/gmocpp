@@ -1,2 +1,2 @@
-cp build\gmocpplib.dll %GAMSDIR%
+cp build\Release\gmocpplib.dll %GAMSDIR%
 
